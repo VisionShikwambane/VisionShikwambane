@@ -69,19 +69,6 @@ I craft elegant solutions to complex problems. With expertise in [your domains],
 
 </div>
 
-## Signature Projects 💎
-
-### 🔴 CURRENT PROJECT: Invoice Automation Software ✨
-*Where vision meets execution*
-
-I am currently developing a cutting-edge invoice automation platform that transforms how businesses handle their billing processes.
-Built with Angular and ASP.NET Core, this solution reduces manual data entry by 90% and accelerates payment cycles while minimizing errors.
-
-## Current Obsessions 🔍
-- Building a multi-cloud strategy for enhanced resilience and scalability
-- Building companion software for on-the-go invoice management
-- Mastering AI integration for predictive analytics
-
 ## Let's Connect 🌐
 
 <div align="center">
